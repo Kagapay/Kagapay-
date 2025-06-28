@@ -6,8 +6,8 @@ class KagapayApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Kagapay',
-      theme: ThemeData(primarySwatch: Colors.deepPurple),
+      title:Kagapay
+      theme:ThemeData(primarySwatch: Colors.deepPurple)
       home: HomePage(),
     );
   }
