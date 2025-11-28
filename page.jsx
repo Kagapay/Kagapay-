@@ -1,0 +1,1 @@
+import Card from '@/ui/components/Card';export default()=> <Card title='Dashboard'>Enterprise Logic Active</Card>;

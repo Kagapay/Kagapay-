@@ -1,1 +1,1 @@
-Upload all files to your GitHub repo, then go to Settings > Pages to enable website hosting.
+Kagapay Mobile App Skeleton (React Native / Expo)
